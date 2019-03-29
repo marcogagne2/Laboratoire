@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Laboratoire_1
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //school?animalerie?Armes(jeu)?
-        }
     }
 }
